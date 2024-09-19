@@ -26886,7 +26886,7 @@ A.ane.prototype={
 $1(a){var s=A.dy().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/a6bd3f1de158bb61090e0c8053df93a10cb548e1/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/36335019a8eab588c3c2ea783c618d90505be233/":s)+a},
 $S:65}
 A.XP.prototype={
 cA(){B.c.ac(this.a.a.save())},
@@ -83584,7 +83584,7 @@ s.toString
 s.f.Zk(B.Na)},
 $S:0}
 A.xo.prototype={
-ag(){return new A.Q2(A.b(["../assets/pages/page1.jpg","../assets/pages/page2.jpg","../assets/pages/pag3.jpg"],t.s),A.aHo())}}
+ag(){return new A.Q2(A.b(["../assets/images/page1.jpg","../assets/images/page2.jpg","../assets/images/page3.jpg"],t.s),A.aHo())}}
 A.Q2.prototype={
 L(a){var s=null,r=this.e
 return A.ab4(A.arb(A.hd(A.b([B.kF,B.JP,B.kG,A.cQ(new A.yG(r,new A.Mg(new A.aiv(this),3,!0,!0,!0,s),s),A.aU(a,s,t.w).w.a.b/4,s),A.dP(B.T,new A.Ac(r,B.UL,3,new A.aiw(),s),B.r,s,s,s,B.mH,s),B.kF,B.JQ,B.kG,A.avi(B.N3,new A.aix(),7,B.fF,B.tK,!0),B.hW],t.D),B.d_,B.ak,B.a8)),s,s)}}
