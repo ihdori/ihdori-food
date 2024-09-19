@@ -12,9 +12,9 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   final List<String> offerImages = [
-    '../assets/pages/page1.jpg',
-    '../assets/pages/page2.jpg',
-    '../assets/pages/pag3.jpg',
+    '../assets/images/page1.jpg',
+    '../assets/images/page2.jpg',
+    '../assets/images/page3.jpg',
   ];
 
   final _controler = PageController();
